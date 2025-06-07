@@ -14,7 +14,7 @@ python tela.py
 
 ### Funcionalities
 
-* Search for registar
+* Search for register
 * Delete register
 * Create register
 * Update register
